@@ -1,4 +1,4 @@
-# Git CheatSheet Basic
+# Git Basic
 
 ## Requirements :
 - ### install git [link](https://git-scm.com/download/win)
