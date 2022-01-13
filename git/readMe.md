@@ -1,6 +1,6 @@
 # Git Basic
 
-## Requirements :
+### Requirements :
 - ### install git [link](https://git-scm.com/download/win)
 
 <br>
